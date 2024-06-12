@@ -47,5 +47,11 @@ font-size: 25px;
 .escola-TituloTextoDestaque{
 padding: 20px 0;
 font-size: 49px;
+}
 
+body{
+    body {
+        font-family: 'Poppins', sans-serif;
+    }
+    
 }
